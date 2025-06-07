@@ -42,7 +42,8 @@ This project includes an admin dashboard to manage students, teachers, subjects,
 
 ## 📸 Screenshots:
 
-*(Add screenshots here of the dashboard, student list, login page, etc.)*
+![‏‏لقطة الشاشة (7)](https://github.com/user-attachments/assets/4f9b1c02-d1f4-4e07-a934-a57f6cacbb06)
+
 
 ---
 
