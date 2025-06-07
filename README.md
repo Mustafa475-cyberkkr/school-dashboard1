@@ -41,9 +41,15 @@ This project includes an admin dashboard to manage students, teachers, subjects,
 ---
 
 ## 📸 Screenshots:
+   ![‏‏لقطة الشاشة (11)](https://github.com/user-attachments/assets/292b51c7-f6de-4132-854b-8cdd2fec164a)
+
+![‏‏لقطة الشاشة (10)](https://github.com/user-attachments/assets/3c888306-039e-4b94-a6dd-27a1e48d6fb4)
+
 
 ![‏‏لقطة الشاشة (7)](https://github.com/user-attachments/assets/4f9b1c02-d1f4-4e07-a934-a57f6cacbb06)
 
+![‏‏لقطة الشاشة (8)](https://github.com/user-attachments/assets/10675343-ccdf-4df3-a916-72be2dd73df4)
+![‏‏لقطة الشاشة (9)](https://github.com/user-attachments/assets/6fb0c469-25a5-4146-b130-8445951bfe57)
 
 ---
 
